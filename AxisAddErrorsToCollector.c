@@ -1,7 +1,10 @@
-//********************************************************************************
-// Author:    dfblackburn
-// Created:   September 04, 2015
-//********************************************************************************
+/*
+ * File: AxisAddErrorsToCollector.c
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of AxisErrLib, licensed under the MIT License.
+ */
 
 #include <bur/plctypes.h>
 
